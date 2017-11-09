@@ -1,3 +1,4 @@
+
 ✔  Anaconda & Jupyter Notebook kurulumu gerçekleştirildi ve alıştırmalar yapıldı.
 
 ✔  Görüntü işlemede kullanılan uygulamalara örnek olarak masaüstü ortamında Adope Photoshop ve Photoscape X Pro, 
